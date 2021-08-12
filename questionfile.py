@@ -1,3 +1,5 @@
+print("I like Python")
+# I am goona count the legs of each Animal-hahahahahah
 #In this challenge, a farmer is asking you to tell him how many legs can be counted among all his animals. The farmer breeds three species:
 
 #chickens = 2 legs
